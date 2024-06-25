@@ -1,4 +1,3 @@
-#include "DIO.h"
 #include "Keypad_Driver.h"
 
 void keypad_vInit (void){
